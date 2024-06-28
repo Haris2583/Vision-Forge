@@ -1,0 +1,1001 @@
+Student ID,Name,Matric Course,Matric Marks,Intermediate Course,Intermediate Marks,Interest,Recommended Course
+1,Mary Lee,Arts,81,ICOM,67,Accounts,BS Accounting
+2,Tom Davis,Computer,98,Pre-Engineering,93,Chemistry,Chemical Engineering
+3,Thomas Brown,Computer,90,Pre-Engineering,53,Construction,Civil Engineering
+4,Jane Lewis,Biology,63,Pre-Medical,83,Dentist,BDS
+5,Mary Brown,Computer,61,Pre-Engineering,95,Robotics,Mechatronics Engineering
+6,Elizabeth Clark,Computer,73,ICS,79,Logic Building/Games development,Bachelors in Computer Science
+7,Jane Smith,Arts,93,ICOM,87,Accounts,BS Accounting
+8,Mary King,Arts,59,ICOM,94,Law,LLB
+9,Mary King,Biology,71,Pre-Medical,82,Dentist,BDS
+10,Elizabeth Brown,Biology,79,Pre-Medical,55,Dentist,BDS
+11,John Lewis,Arts,51,ICOM,65,Law,LLB
+12,Jane Johnson,Computer,53,ICS,90,Software/System Building,Bachelors in Software Engineering
+13,Barbara Smith,Biology,100,Pre-Medical,90,Physiotherapy,Doctor of Physiotherapy (DPT)
+14,James Smith,Arts,81,ICOM,58,Accounts,BS Accounting
+15,Michael King,Biology,85,Pre-Medical,87,Physiotherapy,Doctor of Physiotherapy (DPT)
+16,Robert Davis,Computer,89,ICS,87,Artificial Intelligence,Bachelors in Artificial Engineering
+17,Mary Lee,Arts,75,ICOM,97,Accounts,BS Accounting
+18,Paul Walker,Computer,88,ICS,76,Artificial Intelligence,Bachelors in Artificial Engineering
+19,Michael Brown,Computer,72,Pre-Engineering,63,Robotics,Mechatronics Engineering
+20,Linda Smith,Computer,74,ICS,77,Software/System Building,Bachelors in Software Engineering
+21,William Hall,Computer,77,Pre-Engineering,65,Chemistry,Chemical Engineering
+22,Michael Doe,Arts,61,ICOM,52,Reporting,BS Media and Communication
+23,Thomas Smith,Arts,90,ICOM,82,Accounts,BS Accounting
+24,John Clark,Biology,75,Pre-Medical,86,Physician,MBBS
+25,Linda Davis,Biology,63,Pre-Medical,51,Animal Welfare,Veterinary Sciences
+26,Emily Harris,Arts,80,ICOM,78,Business Management,Bachelor of Business Administration (BBA)
+27,Jane King,Biology,99,Pre-Medical,98,Animal Welfare,Veterinary Sciences
+28,Paul Young,Computer,62,Pre-Engineering,57,Aeroplanes,Aeronautical Engineering
+29,Jane Wilson,Computer,75,ICS,97,Software/System Building,Bachelors in Software Engineering
+30,Michael Wilson,Computer,93,ICS,66,Software/System Building,Bachelors in Software Engineering
+31,Alice Brown,Computer,65,Pre-Engineering,90,Mechanics,Mechanical Engineering
+32,James Hall,Biology,77,Pre-Medical,74,Physician,MBBS
+33,Elizabeth Harris,Biology,94,Pre-Medical,58,Physiotherapy,Doctor of Physiotherapy (DPT)
+34,Linda Clark,Computer,88,ICS,88,Software/System Building,Bachelors in Software Engineering
+35,Barbara Robinson,Computer,64,Pre-Engineering,95,Robotics,Mechatronics Engineering
+36,Chris Davis,Computer,91,ICS,69,Software/System Building,Bachelors in Software Engineering
+37,Tom Harris,Computer,82,Pre-Engineering,67,Robotics,Mechatronics Engineering
+38,Tom Brown,Arts,62,ICOM,96,Reporting,BS Media and Communication
+39,William Robinson,Biology,56,Pre-Medical,54,Animal Welfare,Veterinary Sciences
+40,Mary Johnson,Computer,59,ICS,89,Technician/Network Engineer,Bachelors in IT
+41,Sarah Allen,Biology,66,Pre-Medical,85,Physiotherapy,Doctor of Physiotherapy (DPT)
+42,Emily Brown,Arts,63,ICOM,88,Law,LLB
+43,Paul Lee,Computer,54,Pre-Engineering,74,Aeroplanes,Aeronautical Engineering
+44,Tom Davis,Computer,60,ICS,78,Logic Building/Games development,Bachelors in Computer Science
+45,Elizabeth King,Biology,87,Pre-Medical,70,Dentist,BDS
+46,Michael Wilson,Biology,81,Pre-Medical,87,Dentist,BDS
+47,Mary Doe,Arts,67,ICOM,69,Creative Writing,BS English (Literature)
+48,Elizabeth Lee,Computer,58,Pre-Engineering,89,Aeroplanes,Aeronautical Engineering
+49,Jane Davis,Computer,82,ICS,84,Artificial Intelligence,Bachelors in Artificial Engineering
+50,Jane Lee,Arts,87,ICOM,72,Reporting,BS Media and Communication
+51,Mary Hall,Computer,76,Pre-Engineering,56,Mechanics,Mechanical Engineering
+52,Jane Brown,Computer,69,ICS,53,Technician/Network Engineer,Bachelors in IT
+53,Emily Harris,Arts,59,ICOM,82,Accounts,BS Accounting
+54,John Davis,Arts,69,ICOM,88,Creative Writing,BS English (Literature)
+55,Sarah Walker,Biology,50,Pre-Medical,52,Dentist,BDS
+56,Thomas Hall,Biology,66,Pre-Medical,72,Dentist,BDS
+57,Chris King,Computer,89,Pre-Engineering,60,Robotics,Mechatronics Engineering
+58,Chris White,Computer,55,ICS,72,Logic Building/Games development,Bachelors in Computer Science
+59,Jane Doe,Computer,92,ICS,76,Artificial Intelligence,Bachelors in Artificial Engineering
+60,Paul Davis,Arts,82,ICOM,91,Reporting,BS Media and Communication
+61,Sarah Clark,Biology,64,Pre-Medical,79,Animal Welfare,Veterinary Sciences
+62,Jane Allen,Arts,88,ICOM,85,Business Management,Bachelor of Business Administration (BBA)
+63,William Brown,Computer,57,ICS,70,Logic Building/Games development,Bachelors in Computer Science
+64,Emily Robinson,Arts,58,ICOM,56,Reporting,BS Media and Communication
+65,Sarah King,Computer,81,ICS,82,Software/System Building,Bachelors in Software Engineering
+66,Jessica Smith,Biology,97,Pre-Medical,51,Physiotherapy,Doctor of Physiotherapy (DPT)
+67,Sarah Young,Computer,53,ICS,66,Software/System Building,Bachelors in Software Engineering
+68,James Wilson,Computer,51,ICS,80,Artificial Intelligence,Bachelors in Artificial Engineering
+69,Tom Davis,Arts,67,ICOM,51,Law,LLB
+70,Robert Johnson,Computer,50,Pre-Engineering,83,Robotics,Mechatronics Engineering
+71,Michael Clark,Biology,85,Pre-Medical,66,Dentist,BDS
+72,Emily Doe,Arts,69,ICOM,72,Law,LLB
+73,Michael Smith,Arts,66,ICOM,93,Accounts,BS Accounting
+74,Jessica Lee,Computer,69,Pre-Engineering,83,Construction,Civil Engineering
+75,Michael White,Biology,82,Pre-Medical,74,Animal Welfare,Veterinary Sciences
+76,Linda Allen,Arts,51,ICOM,63,Business Management,Bachelor of Business Administration (BBA)
+77,Jessica Brown,Computer,58,Pre-Engineering,56,Mechanics,Mechanical Engineering
+78,William Johnson,Arts,78,ICOM,98,Law,LLB
+79,Thomas Davis,Computer,94,Pre-Engineering,60,Robotics,Mechatronics Engineering
+80,Elizabeth Wilson,Arts,69,ICOM,88,Law,LLB
+81,Tom Robinson,Biology,68,Pre-Medical,89,Dentist,BDS
+82,James Lee,Biology,65,Pre-Medical,96,Animal Welfare,Veterinary Sciences
+83,Jessica White,Biology,51,Pre-Medical,69,Physiotherapy,Doctor of Physiotherapy (DPT)
+84,Alice Lee,Computer,100,Pre-Engineering,100,Chemistry,Chemical Engineering
+85,Tom Lee,Computer,50,Pre-Engineering,79,Aeroplanes,Aeronautical Engineering
+86,Jessica Doe,Biology,76,Pre-Medical,91,Physiotherapy,Doctor of Physiotherapy (DPT)
+87,James Young,Computer,95,Pre-Engineering,93,Mechanics,Mechanical Engineering
+88,Robert Johnson,Computer,74,ICS,77,Software/System Building,Bachelors in Software Engineering
+89,Emily Lee,Computer,68,ICS,85,Software/System Building,Bachelors in Software Engineering
+90,Tom King,Computer,71,Pre-Engineering,59,Mechanics,Mechanical Engineering
+91,Tom Lee,Biology,59,Pre-Medical,82,Dentist,BDS
+92,Emily Smith,Computer,83,Pre-Engineering,85,Chemistry,Chemical Engineering
+93,Emily Lee,Computer,76,Pre-Engineering,77,Robotics,Mechatronics Engineering
+94,Tom King,Computer,83,Pre-Engineering,68,Chemistry,Chemical Engineering
+95,Chris Harris,Biology,84,Pre-Medical,53,Physiotherapy,Doctor of Physiotherapy (DPT)
+96,Jessica White,Computer,58,Pre-Engineering,67,Construction,Civil Engineering
+97,Thomas White,Arts,87,ICOM,60,Business Management,Bachelor of Business Administration (BBA)
+98,Thomas Smith,Biology,97,Pre-Medical,55,Dentist,BDS
+99,Paul Davis,Biology,78,Pre-Medical,78,Physician,MBBS
+100,Barbara Wilson,Arts,78,ICOM,61,Reporting,BS Media and Communication
+101,Chris Wilson,Biology,56,Pre-Medical,90,Physician,MBBS
+102,Alice Johnson,Biology,98,Pre-Medical,89,Physiotherapy,Doctor of Physiotherapy (DPT)
+103,James Johnson,Computer,85,Pre-Engineering,51,Aeroplanes,Aeronautical Engineering
+104,Jessica Young,Biology,83,Pre-Medical,90,Animal Welfare,Veterinary Sciences
+105,Thomas Harris,Computer,67,ICS,99,Technician/Network Engineer,Bachelors in IT
+106,Elizabeth Allen,Arts,80,ICOM,75,Law,LLB
+107,Sarah Lee,Computer,77,ICS,70,Logic Building/Games development,Bachelors in Computer Science
+108,Paul Smith,Arts,69,ICOM,91,Reporting,BS Media and Communication
+109,Paul Allen,Arts,93,ICOM,69,Reporting,BS Media and Communication
+110,Barbara Harris,Arts,64,ICOM,96,Business Management,Bachelor of Business Administration (BBA)
+111,James Brown,Biology,86,Pre-Medical,84,Dentist,BDS
+112,Paul Johnson,Biology,57,Pre-Medical,54,Physician,MBBS
+113,Elizabeth White,Arts,58,ICOM,86,Law,LLB
+114,Sarah Robinson,Arts,62,ICOM,72,Creative Writing,BS English (Literature)
+115,Emily Harris,Biology,63,Pre-Medical,54,Physician,MBBS
+116,Emily Lewis,Computer,94,ICS,86,Software/System Building,Bachelors in Software Engineering
+117,Alice Brown,Computer,88,ICS,85,Artificial Intelligence,Bachelors in Artificial Engineering
+118,Sarah King,Biology,66,Pre-Medical,76,Animal Welfare,Veterinary Sciences
+119,Jane Brown,Computer,60,Pre-Engineering,64,Construction,Civil Engineering
+120,Tom Brown,Biology,54,Pre-Medical,78,Physician,MBBS
+121,Thomas Clark,Computer,94,Pre-Engineering,53,Mechanics,Mechanical Engineering
+122,Barbara Robinson,Biology,50,Pre-Medical,63,Physiotherapy,Doctor of Physiotherapy (DPT)
+123,James Lewis,Arts,64,ICOM,92,Law,LLB
+124,Sarah Brown,Arts,78,ICOM,75,Law,LLB
+125,Paul Smith,Biology,70,Pre-Medical,79,Physician,MBBS
+126,Alice Clark,Computer,100,Pre-Engineering,89,Mechanics,Mechanical Engineering
+127,Thomas Wilson,Computer,61,Pre-Engineering,93,Construction,Civil Engineering
+128,Mary Harris,Arts,73,ICOM,50,Accounts,BS Accounting
+129,William Lee,Arts,78,ICOM,61,Reporting,BS Media and Communication
+130,Sarah Wilson,Arts,67,ICOM,80,Creative Writing,BS English (Literature)
+131,Linda Young,Arts,53,ICOM,67,Creative Writing,BS English (Literature)
+132,Jessica Davis,Computer,98,Pre-Engineering,64,Robotics,Mechatronics Engineering
+133,Sarah Davis,Biology,95,Pre-Medical,79,Dentist,BDS
+134,Elizabeth Lewis,Computer,70,Pre-Engineering,52,Aeroplanes,Aeronautical Engineering
+135,James Hall,Arts,84,ICOM,84,Law,LLB
+136,William Doe,Computer,86,Pre-Engineering,68,Robotics,Mechatronics Engineering
+137,John Walker,Computer,69,ICS,80,Technician/Network Engineer,Bachelors in IT
+138,James Johnson,Computer,96,Pre-Engineering,53,Construction,Civil Engineering
+139,Robert Lewis,Computer,97,Pre-Engineering,76,Robotics,Mechatronics Engineering
+140,John Lee,Computer,100,ICS,70,Technician/Network Engineer,Bachelors in IT
+141,Alice Allen,Biology,51,Pre-Medical,71,Dentist,BDS
+142,Thomas Doe,Computer,82,Pre-Engineering,94,Construction,Civil Engineering
+143,John King,Computer,79,ICS,100,Software/System Building,Bachelors in Software Engineering
+144,James King,Computer,76,ICS,81,Logic Building/Games development,Bachelors in Computer Science
+145,Chris Johnson,Computer,79,ICS,74,Software/System Building,Bachelors in Software Engineering
+146,John Brown,Computer,85,ICS,92,Software/System Building,Bachelors in Software Engineering
+147,Emily Young,Computer,80,Pre-Engineering,72,Robotics,Mechatronics Engineering
+148,William Robinson,Arts,84,ICOM,75,Creative Writing,BS English (Literature)
+149,Elizabeth Lewis,Arts,81,ICOM,94,Accounts,BS Accounting
+150,William Lee,Computer,87,ICS,52,Artificial Intelligence,Bachelors in Artificial Engineering
+151,Mary Brown,Arts,76,ICOM,58,Law,LLB
+152,Thomas Young,Biology,89,Pre-Medical,88,Dentist,BDS
+153,Tom Johnson,Computer,56,ICS,71,Artificial Intelligence,Bachelors in Artificial Engineering
+154,Barbara King,Computer,53,ICS,84,Technician/Network Engineer,Bachelors in IT
+155,Paul Doe,Computer,94,Pre-Engineering,78,Robotics,Mechatronics Engineering
+156,William Hall,Biology,94,Pre-Medical,82,Physiotherapy,Doctor of Physiotherapy (DPT)
+157,Jessica Young,Arts,55,ICOM,92,Law,LLB
+158,James Robinson,Arts,94,ICOM,76,Law,LLB
+159,Alice Wilson,Computer,74,ICS,81,Software/System Building,Bachelors in Software Engineering
+160,Mary Clark,Arts,100,ICOM,99,Business Management,Bachelor of Business Administration (BBA)
+161,Barbara King,Computer,54,Pre-Engineering,89,Chemistry,Chemical Engineering
+162,Jane Walker,Arts,87,ICOM,97,Accounts,BS Accounting
+163,Jane Robinson,Computer,85,Pre-Engineering,65,Mechanics,Mechanical Engineering
+164,Michael Walker,Arts,52,ICOM,65,Creative Writing,BS English (Literature)
+165,James Davis,Biology,93,Pre-Medical,71,Physician,MBBS
+166,Elizabeth Brown,Arts,96,ICOM,82,Accounts,BS Accounting
+167,Michael Walker,Biology,96,Pre-Medical,66,Physician,MBBS
+168,Paul Brown,Computer,57,Pre-Engineering,52,Aeroplanes,Aeronautical Engineering
+169,Elizabeth Johnson,Computer,80,Pre-Engineering,55,Mechanics,Mechanical Engineering
+170,John Brown,Computer,65,ICS,61,Software/System Building,Bachelors in Software Engineering
+171,Sarah Wilson,Computer,90,ICS,84,Technician/Network Engineer,Bachelors in IT
+172,James Clark,Arts,77,ICOM,68,Business Management,Bachelor of Business Administration (BBA)
+173,Linda Clark,Computer,70,ICS,83,Software/System Building,Bachelors in Software Engineering
+174,Emily Johnson,Biology,92,Pre-Medical,93,Animal Welfare,Veterinary Sciences
+175,Paul Hall,Computer,64,ICS,95,Software/System Building,Bachelors in Software Engineering
+176,Barbara Walker,Computer,82,Pre-Engineering,66,Chemistry,Chemical Engineering
+177,William King,Biology,99,Pre-Medical,51,Physiotherapy,Doctor of Physiotherapy (DPT)
+178,Paul Lee,Arts,54,ICOM,59,Law,LLB
+179,Sarah Walker,Computer,60,Pre-Engineering,75,Mechanics,Mechanical Engineering
+180,John Robinson,Biology,66,Pre-Medical,68,Animal Welfare,Veterinary Sciences
+181,Linda White,Computer,52,Pre-Engineering,73,Construction,Civil Engineering
+182,Michael Brown,Computer,81,Pre-Engineering,89,Construction,Civil Engineering
+183,Jessica Johnson,Computer,88,ICS,87,Software/System Building,Bachelors in Software Engineering
+184,John Smith,Computer,80,ICS,74,Software/System Building,Bachelors in Software Engineering
+185,Jane Smith,Computer,53,ICS,71,Logic Building/Games development,Bachelors in Computer Science
+186,Paul Doe,Arts,60,ICOM,61,Business Management,Bachelor of Business Administration (BBA)
+187,Sarah Smith,Computer,89,ICS,100,Artificial Intelligence,Bachelors in Artificial Engineering
+188,Alice Brown,Computer,77,Pre-Engineering,56,Construction,Civil Engineering
+189,Tom Robinson,Biology,55,Pre-Medical,84,Physician,MBBS
+190,Paul Harris,Arts,76,ICOM,53,Reporting,BS Media and Communication
+191,Michael Clark,Arts,96,ICOM,70,Accounts,BS Accounting
+192,Alice Smith,Arts,69,ICOM,61,Business Management,Bachelor of Business Administration (BBA)
+193,Thomas Young,Computer,52,Pre-Engineering,98,Construction,Civil Engineering
+194,Linda Clark,Arts,60,ICOM,85,Law,LLB
+195,Sarah Hall,Biology,93,Pre-Medical,80,Physician,MBBS
+196,Sarah Allen,Computer,76,Pre-Engineering,58,Aeroplanes,Aeronautical Engineering
+197,Michael Lewis,Biology,76,Pre-Medical,53,Physician,MBBS
+198,Elizabeth Johnson,Biology,59,Pre-Medical,63,Animal Welfare,Veterinary Sciences
+199,Barbara Lewis,Arts,91,ICOM,64,Creative Writing,BS English (Literature)
+200,Tom Robinson,Computer,53,Pre-Engineering,73,Chemistry,Chemical Engineering
+201,Mary Walker,Computer,70,ICS,61,Artificial Intelligence,Bachelors in Artificial Engineering
+202,Thomas Young,Computer,84,ICS,97,Software/System Building,Bachelors in Software Engineering
+203,Michael Lee,Computer,54,Pre-Engineering,66,Construction,Civil Engineering
+204,Linda Doe,Arts,99,ICOM,90,Reporting,BS Media and Communication
+205,Jessica Brown,Computer,95,Pre-Engineering,86,Aeroplanes,Aeronautical Engineering
+206,Mary Johnson,Biology,90,Pre-Medical,87,Physician,MBBS
+207,Jessica Robinson,Biology,70,Pre-Medical,91,Physiotherapy,Doctor of Physiotherapy (DPT)
+208,Jessica Young,Computer,63,ICS,96,Technician/Network Engineer,Bachelors in IT
+209,Linda Johnson,Biology,94,Pre-Medical,51,Physician,MBBS
+210,Jessica Robinson,Biology,66,Pre-Medical,55,Physician,MBBS
+211,Jessica Lewis,Arts,86,ICOM,58,Law,LLB
+212,Thomas Smith,Computer,87,Pre-Engineering,88,Chemistry,Chemical Engineering
+213,William Lee,Computer,70,Pre-Engineering,63,Robotics,Mechatronics Engineering
+214,Jessica White,Biology,96,Pre-Medical,75,Dentist,BDS
+215,Thomas Harris,Arts,68,ICOM,81,Law,LLB
+216,Chris Lee,Arts,57,ICOM,64,Creative Writing,BS English (Literature)
+217,Thomas White,Computer,50,Pre-Engineering,74,Aeroplanes,Aeronautical Engineering
+218,Linda Brown,Arts,92,ICOM,52,Law,LLB
+219,William Davis,Arts,74,ICOM,55,Accounts,BS Accounting
+220,Mary Doe,Biology,61,Pre-Medical,65,Physiotherapy,Doctor of Physiotherapy (DPT)
+221,William Walker,Computer,50,Pre-Engineering,71,Construction,Civil Engineering
+222,Emily Wilson,Biology,72,Pre-Medical,76,Physiotherapy,Doctor of Physiotherapy (DPT)
+223,Linda Lee,Computer,85,Pre-Engineering,82,Aeroplanes,Aeronautical Engineering
+224,Jane Brown,Arts,74,ICOM,100,Creative Writing,BS English (Literature)
+225,John Walker,Biology,71,Pre-Medical,80,Dentist,BDS
+226,John Lee,Computer,54,ICS,55,Artificial Intelligence,Bachelors in Artificial Engineering
+227,James Johnson,Arts,72,ICOM,88,Business Management,Bachelor of Business Administration (BBA)
+228,Emily Johnson,Computer,51,ICS,94,Technician/Network Engineer,Bachelors in IT
+229,Linda Walker,Computer,97,ICS,59,Software/System Building,Bachelors in Software Engineering
+230,John Young,Computer,69,Pre-Engineering,80,Aeroplanes,Aeronautical Engineering
+231,Alice Johnson,Computer,81,ICS,99,Logic Building/Games development,Bachelors in Computer Science
+232,Tom Robinson,Computer,57,ICS,89,Software/System Building,Bachelors in Software Engineering
+233,Sarah Harris,Computer,87,Pre-Engineering,64,Construction,Civil Engineering
+234,John King,Biology,66,Pre-Medical,97,Physician,MBBS
+235,John Harris,Computer,57,Pre-Engineering,61,Chemistry,Chemical Engineering
+236,Robert White,Arts,73,ICOM,80,Accounts,BS Accounting
+237,Michael Doe,Arts,82,ICOM,79,Creative Writing,BS English (Literature)
+238,Michael Brown,Computer,61,ICS,55,Logic Building/Games development,Bachelors in Computer Science
+239,Jane Robinson,Biology,76,Pre-Medical,76,Animal Welfare,Veterinary Sciences
+240,Jane Johnson,Computer,69,ICS,73,Logic Building/Games development,Bachelors in Computer Science
+241,Barbara Young,Arts,92,ICOM,50,Reporting,BS Media and Communication
+242,James Brown,Biology,66,Pre-Medical,53,Dentist,BDS
+243,Linda Young,Computer,77,ICS,53,Technician/Network Engineer,Bachelors in IT
+244,Jessica Doe,Computer,86,ICS,86,Technician/Network Engineer,Bachelors in IT
+245,Thomas Lewis,Computer,61,ICS,63,Software/System Building,Bachelors in Software Engineering
+246,James Allen,Biology,80,Pre-Medical,58,Physiotherapy,Doctor of Physiotherapy (DPT)
+247,Robert White,Computer,91,ICS,54,Logic Building/Games development,Bachelors in Computer Science
+248,Barbara Lee,Biology,88,Pre-Medical,78,Physician,MBBS
+249,Sarah Clark,Computer,96,Pre-Engineering,90,Chemistry,Chemical Engineering
+250,James Davis,Biology,93,Pre-Medical,91,Animal Welfare,Veterinary Sciences
+251,Alice Harris,Computer,77,ICS,50,Logic Building/Games development,Bachelors in Computer Science
+252,Jessica Allen,Computer,68,Pre-Engineering,64,Construction,Civil Engineering
+253,Linda Brown,Biology,87,Pre-Medical,80,Physician,MBBS
+254,Linda Harris,Computer,92,ICS,69,Artificial Intelligence,Bachelors in Artificial Engineering
+255,Barbara Walker,Arts,83,ICOM,63,Reporting,BS Media and Communication
+256,Robert Clark,Computer,97,ICS,69,Software/System Building,Bachelors in Software Engineering
+257,James Walker,Computer,56,Pre-Engineering,59,Construction,Civil Engineering
+258,Barbara Allen,Biology,51,Pre-Medical,54,Physiotherapy,Doctor of Physiotherapy (DPT)
+259,Paul Harris,Biology,100,Pre-Medical,93,Physician,MBBS
+260,William Brown,Computer,99,Pre-Engineering,83,Chemistry,Chemical Engineering
+261,Thomas Johnson,Biology,52,Pre-Medical,97,Physiotherapy,Doctor of Physiotherapy (DPT)
+262,Linda Clark,Biology,98,Pre-Medical,77,Physiotherapy,Doctor of Physiotherapy (DPT)
+263,William Lee,Computer,92,Pre-Engineering,99,Aeroplanes,Aeronautical Engineering
+264,Thomas Lewis,Computer,87,Pre-Engineering,84,Chemistry,Chemical Engineering
+265,John Johnson,Biology,83,Pre-Medical,69,Physician,MBBS
+266,Sarah Walker,Computer,53,Pre-Engineering,80,Aeroplanes,Aeronautical Engineering
+267,Michael Johnson,Computer,52,Pre-Engineering,76,Mechanics,Mechanical Engineering
+268,Jane Brown,Computer,60,Pre-Engineering,89,Chemistry,Chemical Engineering
+269,Mary King,Biology,56,Pre-Medical,55,Physician,MBBS
+270,Michael Wilson,Computer,57,ICS,73,Software/System Building,Bachelors in Software Engineering
+271,William Lee,Computer,51,Pre-Engineering,88,Chemistry,Chemical Engineering
+272,Chris Allen,Arts,86,ICOM,74,Creative Writing,BS English (Literature)
+273,Jessica Doe,Computer,57,Pre-Engineering,78,Mechanics,Mechanical Engineering
+274,William Allen,Biology,78,Pre-Medical,62,Physiotherapy,Doctor of Physiotherapy (DPT)
+275,Alice Davis,Computer,56,Pre-Engineering,69,Mechanics,Mechanical Engineering
+276,James Brown,Computer,81,ICS,80,Technician/Network Engineer,Bachelors in IT
+277,Mary Doe,Arts,67,ICOM,51,Law,LLB
+278,Tom Smith,Computer,89,Pre-Engineering,62,Construction,Civil Engineering
+279,Robert Harris,Biology,55,Pre-Medical,55,Physician,MBBS
+280,Mary Young,Computer,67,ICS,88,Artificial Intelligence,Bachelors in Artificial Engineering
+281,Sarah Clark,Arts,97,ICOM,68,Law,LLB
+282,Thomas Brown,Computer,75,ICS,60,Software/System Building,Bachelors in Software Engineering
+283,John Clark,Computer,64,Pre-Engineering,88,Chemistry,Chemical Engineering
+284,Jessica Hall,Computer,91,ICS,99,Technician/Network Engineer,Bachelors in IT
+285,Jessica King,Arts,81,ICOM,92,Accounts,BS Accounting
+286,Tom Doe,Computer,95,ICS,69,Logic Building/Games development,Bachelors in Computer Science
+287,Michael Clark,Arts,77,ICOM,99,Accounts,BS Accounting
+288,Barbara Lewis,Computer,91,ICS,58,Software/System Building,Bachelors in Software Engineering
+289,Linda Wilson,Arts,99,ICOM,91,Reporting,BS Media and Communication
+290,Linda Young,Arts,92,ICOM,60,Business Management,Bachelor of Business Administration (BBA)
+291,Linda Lee,Biology,61,Pre-Medical,76,Dentist,BDS
+292,James Harris,Computer,94,Pre-Engineering,54,Mechanics,Mechanical Engineering
+293,Michael Lewis,Computer,55,Pre-Engineering,51,Aeroplanes,Aeronautical Engineering
+294,Barbara Johnson,Biology,56,Pre-Medical,83,Physician,MBBS
+295,Mary Robinson,Arts,58,ICOM,70,Creative Writing,BS English (Literature)
+296,John Wilson,Biology,50,Pre-Medical,73,Dentist,BDS
+297,Jessica Doe,Computer,90,ICS,87,Artificial Intelligence,Bachelors in Artificial Engineering
+298,Alice Hall,Computer,89,ICS,82,Software/System Building,Bachelors in Software Engineering
+299,Barbara Hall,Arts,95,ICOM,61,Creative Writing,BS English (Literature)
+300,Mary Johnson,Biology,86,Pre-Medical,77,Animal Welfare,Veterinary Sciences
+301,Michael Harris,Arts,52,ICOM,64,Creative Writing,BS English (Literature)
+302,Elizabeth King,Computer,90,ICS,82,Logic Building/Games development,Bachelors in Computer Science
+303,Jessica Johnson,Arts,97,ICOM,51,Accounts,BS Accounting
+304,Alice White,Biology,66,Pre-Medical,72,Dentist,BDS
+305,Thomas Brown,Computer,62,ICS,97,Technician/Network Engineer,Bachelors in IT
+306,Chris Brown,Arts,69,ICOM,52,Reporting,BS Media and Communication
+307,James Wilson,Computer,52,ICS,52,Technician/Network Engineer,Bachelors in IT
+308,Mary Smith,Arts,93,ICOM,75,Reporting,BS Media and Communication
+309,Emily Lewis,Computer,62,Pre-Engineering,57,Aeroplanes,Aeronautical Engineering
+310,Jane Lewis,Biology,97,Pre-Medical,84,Dentist,BDS
+311,William Robinson,Computer,68,Pre-Engineering,66,Mechanics,Mechanical Engineering
+312,Barbara Smith,Arts,54,ICOM,61,Law,LLB
+313,Linda Allen,Biology,95,Pre-Medical,70,Physiotherapy,Doctor of Physiotherapy (DPT)
+314,Elizabeth Johnson,Arts,68,ICOM,74,Business Management,Bachelor of Business Administration (BBA)
+315,Paul Wilson,Biology,98,Pre-Medical,89,Physician,MBBS
+316,Jessica King,Computer,81,Pre-Engineering,79,Construction,Civil Engineering
+317,William Davis,Computer,91,ICS,96,Logic Building/Games development,Bachelors in Computer Science
+318,Tom Johnson,Biology,72,Pre-Medical,90,Dentist,BDS
+319,Elizabeth Davis,Computer,63,Pre-Engineering,93,Aeroplanes,Aeronautical Engineering
+320,Michael Lee,Arts,53,ICOM,73,Reporting,BS Media and Communication
+321,Barbara White,Biology,98,Pre-Medical,59,Physiotherapy,Doctor of Physiotherapy (DPT)
+322,Alice Wilson,Computer,85,ICS,96,Software/System Building,Bachelors in Software Engineering
+323,Elizabeth Harris,Arts,89,ICOM,51,Creative Writing,BS English (Literature)
+324,Tom Lewis,Arts,61,ICOM,66,Creative Writing,BS English (Literature)
+325,Jessica Harris,Biology,82,Pre-Medical,74,Physiotherapy,Doctor of Physiotherapy (DPT)
+326,Alice Brown,Computer,64,Pre-Engineering,56,Chemistry,Chemical Engineering
+327,Thomas Lewis,Computer,99,Pre-Engineering,58,Aeroplanes,Aeronautical Engineering
+328,Linda Doe,Biology,83,Pre-Medical,87,Dentist,BDS
+329,Elizabeth Robinson,Computer,52,Pre-Engineering,86,Mechanics,Mechanical Engineering
+330,Robert Clark,Computer,74,Pre-Engineering,71,Chemistry,Chemical Engineering
+331,James Harris,Arts,82,ICOM,80,Reporting,BS Media and Communication
+332,Robert Walker,Computer,71,Pre-Engineering,84,Robotics,Mechatronics Engineering
+333,Jane Allen,Computer,91,ICS,90,Technician/Network Engineer,Bachelors in IT
+334,Robert Smith,Arts,69,ICOM,82,Creative Writing,BS English (Literature)
+335,Tom Lee,Computer,66,Pre-Engineering,84,Mechanics,Mechanical Engineering
+336,Michael Robinson,Computer,73,Pre-Engineering,67,Chemistry,Chemical Engineering
+337,Linda Walker,Computer,59,ICS,64,Technician/Network Engineer,Bachelors in IT
+338,Elizabeth Robinson,Arts,52,ICOM,73,Creative Writing,BS English (Literature)
+339,Chris Brown,Arts,73,ICOM,81,Creative Writing,BS English (Literature)
+340,James Brown,Computer,72,ICS,66,Software/System Building,Bachelors in Software Engineering
+341,James Hall,Computer,84,ICS,96,Technician/Network Engineer,Bachelors in IT
+342,Paul Brown,Arts,83,ICOM,94,Reporting,BS Media and Communication
+343,Emily Lee,Biology,75,Pre-Medical,92,Animal Welfare,Veterinary Sciences
+344,Jane Young,Computer,53,Pre-Engineering,83,Aeroplanes,Aeronautical Engineering
+345,Elizabeth Wilson,Computer,54,ICS,81,Software/System Building,Bachelors in Software Engineering
+346,James Clark,Computer,53,ICS,82,Software/System Building,Bachelors in Software Engineering
+347,Paul Walker,Computer,64,ICS,62,Artificial Intelligence,Bachelors in Artificial Engineering
+348,Jessica Allen,Arts,74,ICOM,71,Reporting,BS Media and Communication
+349,Jessica King,Computer,51,Pre-Engineering,71,Robotics,Mechatronics Engineering
+350,Thomas Lee,Arts,67,ICOM,57,Business Management,Bachelor of Business Administration (BBA)
+351,Jane Smith,Computer,92,ICS,61,Software/System Building,Bachelors in Software Engineering
+352,William White,Computer,85,Pre-Engineering,92,Mechanics,Mechanical Engineering
+353,Alice Hall,Computer,65,Pre-Engineering,69,Aeroplanes,Aeronautical Engineering
+354,Jessica Harris,Arts,75,ICOM,94,Business Management,Bachelor of Business Administration (BBA)
+355,Sarah Davis,Biology,94,Pre-Medical,54,Dentist,BDS
+356,Sarah Smith,Arts,54,ICOM,95,Business Management,Bachelor of Business Administration (BBA)
+357,John Young,Arts,78,ICOM,69,Reporting,BS Media and Communication
+358,William Brown,Computer,89,Pre-Engineering,82,Construction,Civil Engineering
+359,Jessica White,Biology,89,Pre-Medical,71,Dentist,BDS
+360,Thomas King,Biology,51,Pre-Medical,57,Physiotherapy,Doctor of Physiotherapy (DPT)
+361,Linda Harris,Computer,75,Pre-Engineering,99,Robotics,Mechatronics Engineering
+362,James White,Arts,61,ICOM,87,Law,LLB
+363,Paul Wilson,Arts,87,ICOM,51,Business Management,Bachelor of Business Administration (BBA)
+364,Jane Lee,Arts,66,ICOM,84,Reporting,BS Media and Communication
+365,Emily Lee,Computer,81,Pre-Engineering,84,Mechanics,Mechanical Engineering
+366,Barbara Brown,Biology,55,Pre-Medical,84,Physiotherapy,Doctor of Physiotherapy (DPT)
+367,Elizabeth Allen,Arts,65,ICOM,81,Business Management,Bachelor of Business Administration (BBA)
+368,Chris Davis,Arts,73,ICOM,86,Business Management,Bachelor of Business Administration (BBA)
+369,Tom Lewis,Computer,68,Pre-Engineering,77,Construction,Civil Engineering
+370,James King,Computer,64,ICS,57,Artificial Intelligence,Bachelors in Artificial Engineering
+371,Jessica Brown,Arts,66,ICOM,75,Law,LLB
+372,Mary Doe,Computer,84,Pre-Engineering,84,Chemistry,Chemical Engineering
+373,Paul Johnson,Arts,77,ICOM,88,Business Management,Bachelor of Business Administration (BBA)
+374,Chris Walker,Arts,69,ICOM,62,Creative Writing,BS English (Literature)
+375,Chris Brown,Biology,83,Pre-Medical,72,Physician,MBBS
+376,Elizabeth Doe,Computer,51,ICS,78,Technician/Network Engineer,Bachelors in IT
+377,James Wilson,Computer,56,Pre-Engineering,93,Construction,Civil Engineering
+378,Barbara Clark,Arts,58,ICOM,83,Business Management,Bachelor of Business Administration (BBA)
+379,Robert Brown,Biology,95,Pre-Medical,95,Physician,MBBS
+380,Barbara Brown,Arts,77,ICOM,89,Accounts,BS Accounting
+381,Chris King,Computer,96,Pre-Engineering,67,Robotics,Mechatronics Engineering
+382,Jane Johnson,Biology,71,Pre-Medical,56,Animal Welfare,Veterinary Sciences
+383,Alice Davis,Computer,68,ICS,55,Technician/Network Engineer,Bachelors in IT
+384,Elizabeth Allen,Computer,76,Pre-Engineering,86,Construction,Civil Engineering
+385,Mary Harris,Computer,76,ICS,93,Technician/Network Engineer,Bachelors in IT
+386,Alice Brown,Biology,52,Pre-Medical,100,Physician,MBBS
+387,Chris Hall,Biology,52,Pre-Medical,56,Animal Welfare,Veterinary Sciences
+388,Sarah White,Computer,78,ICS,66,Software/System Building,Bachelors in Software Engineering
+389,Tom Young,Computer,56,ICS,72,Artificial Intelligence,Bachelors in Artificial Engineering
+390,Jane Robinson,Computer,59,ICS,71,Logic Building/Games development,Bachelors in Computer Science
+391,Jane Robinson,Biology,98,Pre-Medical,78,Physiotherapy,Doctor of Physiotherapy (DPT)
+392,Sarah Young,Computer,52,Pre-Engineering,72,Chemistry,Chemical Engineering
+393,Jane Hall,Computer,85,Pre-Engineering,55,Mechanics,Mechanical Engineering
+394,Jessica Davis,Arts,82,ICOM,86,Creative Writing,BS English (Literature)
+395,Barbara Lee,Computer,87,Pre-Engineering,83,Construction,Civil Engineering
+396,Michael Harris,Arts,50,ICOM,54,Creative Writing,BS English (Literature)
+397,James Young,Computer,54,Pre-Engineering,64,Robotics,Mechatronics Engineering
+398,Mary Harris,Computer,97,ICS,67,Software/System Building,Bachelors in Software Engineering
+399,Chris Brown,Biology,87,Pre-Medical,93,Physician,MBBS
+400,James Harris,Arts,91,ICOM,84,Creative Writing,BS English (Literature)
+401,Alice Johnson,Arts,62,ICOM,98,Law,LLB
+402,Robert Brown,Computer,100,Pre-Engineering,77,Chemistry,Chemical Engineering
+403,Alice Young,Arts,97,ICOM,74,Law,LLB
+404,Jane Brown,Computer,94,Pre-Engineering,52,Mechanics,Mechanical Engineering
+405,Elizabeth King,Biology,81,Pre-Medical,57,Physiotherapy,Doctor of Physiotherapy (DPT)
+406,John King,Computer,75,ICS,75,Technician/Network Engineer,Bachelors in IT
+407,Chris Johnson,Computer,79,ICS,64,Software/System Building,Bachelors in Software Engineering
+408,James Brown,Computer,80,ICS,87,Logic Building/Games development,Bachelors in Computer Science
+409,Chris Lee,Arts,56,ICOM,64,Creative Writing,BS English (Literature)
+410,Mary Harris,Biology,79,Pre-Medical,68,Dentist,BDS
+411,Jessica Brown,Arts,92,ICOM,56,Law,LLB
+412,James Robinson,Biology,96,Pre-Medical,97,Physiotherapy,Doctor of Physiotherapy (DPT)
+413,Paul Robinson,Computer,76,Pre-Engineering,63,Construction,Civil Engineering
+414,Jane White,Arts,86,ICOM,71,Creative Writing,BS English (Literature)
+415,Emily Clark,Computer,52,Pre-Engineering,99,Chemistry,Chemical Engineering
+416,Emily Allen,Arts,83,ICOM,85,Accounts,BS Accounting
+417,Elizabeth Doe,Computer,88,ICS,65,Logic Building/Games development,Bachelors in Computer Science
+418,Emily White,Biology,65,Pre-Medical,88,Physician,MBBS
+419,Robert Harris,Computer,99,Pre-Engineering,81,Construction,Civil Engineering
+420,Alice Hall,Arts,54,ICOM,60,Law,LLB
+421,Sarah King,Computer,78,ICS,91,Software/System Building,Bachelors in Software Engineering
+422,Chris Lee,Computer,60,ICS,94,Artificial Intelligence,Bachelors in Artificial Engineering
+423,John Hall,Computer,69,ICS,75,Technician/Network Engineer,Bachelors in IT
+424,John Brown,Biology,68,Pre-Medical,77,Physician,MBBS
+425,Chris Brown,Biology,73,Pre-Medical,71,Physician,MBBS
+426,Barbara Doe,Arts,80,ICOM,64,Business Management,Bachelor of Business Administration (BBA)
+427,William Hall,Computer,67,ICS,93,Logic Building/Games development,Bachelors in Computer Science
+428,Tom Allen,Biology,68,Pre-Medical,62,Physiotherapy,Doctor of Physiotherapy (DPT)
+429,Linda Doe,Arts,78,ICOM,56,Business Management,Bachelor of Business Administration (BBA)
+430,Jane Allen,Computer,72,ICS,86,Technician/Network Engineer,Bachelors in IT
+431,Tom Davis,Computer,60,ICS,67,Artificial Intelligence,Bachelors in Artificial Engineering
+432,Robert Lee,Biology,99,Pre-Medical,70,Physiotherapy,Doctor of Physiotherapy (DPT)
+433,Elizabeth Davis,Arts,95,ICOM,61,Creative Writing,BS English (Literature)
+434,Barbara Brown,Computer,86,Pre-Engineering,97,Aeroplanes,Aeronautical Engineering
+435,Michael Allen,Computer,74,ICS,72,Logic Building/Games development,Bachelors in Computer Science
+436,Jessica Wilson,Computer,72,ICS,95,Software/System Building,Bachelors in Software Engineering
+437,Chris Johnson,Biology,84,Pre-Medical,81,Animal Welfare,Veterinary Sciences
+438,Jane White,Arts,86,ICOM,62,Law,LLB
+439,Linda Hall,Arts,76,ICOM,51,Reporting,BS Media and Communication
+440,Sarah Clark,Arts,86,ICOM,93,Accounts,BS Accounting
+441,Jane Young,Arts,86,ICOM,53,Reporting,BS Media and Communication
+442,Jessica Lewis,Arts,99,ICOM,53,Reporting,BS Media and Communication
+443,Mary Robinson,Arts,66,ICOM,86,Business Management,Bachelor of Business Administration (BBA)
+444,Mary Davis,Computer,90,ICS,72,Software/System Building,Bachelors in Software Engineering
+445,Alice Davis,Arts,63,ICOM,81,Accounts,BS Accounting
+446,Paul Young,Biology,52,Pre-Medical,63,Dentist,BDS
+447,Chris Smith,Biology,57,Pre-Medical,62,Animal Welfare,Veterinary Sciences
+448,Michael Robinson,Arts,59,ICOM,71,Creative Writing,BS English (Literature)
+449,Mary Young,Computer,51,Pre-Engineering,60,Construction,Civil Engineering
+450,William White,Biology,87,Pre-Medical,54,Animal Welfare,Veterinary Sciences
+451,Paul Davis,Computer,82,ICS,56,Artificial Intelligence,Bachelors in Artificial Engineering
+452,Robert White,Biology,84,Pre-Medical,57,Dentist,BDS
+453,Chris Harris,Computer,73,ICS,67,Software/System Building,Bachelors in Software Engineering
+454,Robert Harris,Biology,90,Pre-Medical,100,Physician,MBBS
+455,Tom Wilson,Arts,90,ICOM,61,Creative Writing,BS English (Literature)
+456,Elizabeth Young,Computer,65,ICS,94,Software/System Building,Bachelors in Software Engineering
+457,James Doe,Computer,62,Pre-Engineering,58,Robotics,Mechatronics Engineering
+458,William Young,Biology,68,Pre-Medical,56,Physiotherapy,Doctor of Physiotherapy (DPT)
+459,Jane Allen,Arts,68,ICOM,63,Business Management,Bachelor of Business Administration (BBA)
+460,Robert Wilson,Computer,61,Pre-Engineering,66,Aeroplanes,Aeronautical Engineering
+461,Tom Smith,Arts,97,ICOM,87,Business Management,Bachelor of Business Administration (BBA)
+462,John King,Biology,90,Pre-Medical,86,Physiotherapy,Doctor of Physiotherapy (DPT)
+463,Mary Hall,Arts,56,ICOM,76,Accounts,BS Accounting
+464,Mary Lee,Biology,96,Pre-Medical,94,Physiotherapy,Doctor of Physiotherapy (DPT)
+465,Jane Lewis,Computer,53,ICS,96,Technician/Network Engineer,Bachelors in IT
+466,William Brown,Arts,93,ICOM,71,Reporting,BS Media and Communication
+467,Chris Lewis,Computer,100,ICS,78,Software/System Building,Bachelors in Software Engineering
+468,Tom Walker,Arts,95,ICOM,65,Creative Writing,BS English (Literature)
+469,Barbara Johnson,Biology,96,Pre-Medical,100,Physician,MBBS
+470,Emily Smith,Computer,58,Pre-Engineering,79,Robotics,Mechatronics Engineering
+471,Alice Wilson,Arts,81,ICOM,67,Reporting,BS Media and Communication
+472,Mary Doe,Computer,53,ICS,82,Logic Building/Games development,Bachelors in Computer Science
+473,Tom Allen,Biology,80,Pre-Medical,91,Dentist,BDS
+474,Barbara Robinson,Arts,75,ICOM,51,Business Management,Bachelor of Business Administration (BBA)
+475,Jessica Young,Computer,100,Pre-Engineering,61,Construction,Civil Engineering
+476,Jane Young,Arts,97,ICOM,68,Accounts,BS Accounting
+477,John Wilson,Computer,90,Pre-Engineering,82,Mechanics,Mechanical Engineering
+478,Mary Allen,Biology,82,Pre-Medical,58,Dentist,BDS
+479,John Lee,Computer,84,ICS,55,Artificial Intelligence,Bachelors in Artificial Engineering
+480,Michael Clark,Arts,59,ICOM,90,Accounts,BS Accounting
+481,William Davis,Biology,51,Pre-Medical,76,Physician,MBBS
+482,Paul Smith,Arts,57,ICOM,80,Reporting,BS Media and Communication
+483,Alice Wilson,Computer,62,Pre-Engineering,100,Aeroplanes,Aeronautical Engineering
+484,James Brown,Arts,63,ICOM,65,Creative Writing,BS English (Literature)
+485,James Brown,Biology,54,Pre-Medical,73,Physiotherapy,Doctor of Physiotherapy (DPT)
+486,Elizabeth Clark,Computer,67,ICS,75,Artificial Intelligence,Bachelors in Artificial Engineering
+487,Jane Doe,Arts,86,ICOM,61,Accounts,BS Accounting
+488,Sarah Robinson,Biology,68,Pre-Medical,58,Dentist,BDS
+489,Michael White,Biology,63,Pre-Medical,61,Physiotherapy,Doctor of Physiotherapy (DPT)
+490,Thomas King,Arts,80,ICOM,83,Law,LLB
+491,William White,Arts,77,ICOM,58,Accounts,BS Accounting
+492,William Lewis,Arts,100,ICOM,78,Reporting,BS Media and Communication
+493,William Brown,Computer,85,Pre-Engineering,64,Construction,Civil Engineering
+494,Barbara Doe,Computer,86,Pre-Engineering,74,Robotics,Mechatronics Engineering
+495,James Young,Biology,70,Pre-Medical,89,Dentist,BDS
+496,Tom Harris,Arts,55,ICOM,60,Business Management,Bachelor of Business Administration (BBA)
+497,Chris Allen,Computer,94,ICS,84,Software/System Building,Bachelors in Software Engineering
+498,Jessica Lewis,Biology,62,Pre-Medical,74,Animal Welfare,Veterinary Sciences
+499,Robert Lewis,Arts,59,ICOM,52,Accounts,BS Accounting
+500,John Robinson,Arts,80,ICOM,88,Business Management,Bachelor of Business Administration (BBA)
+501,Jane King,Arts,69,ICOM,92,Creative Writing,BS English (Literature)
+502,Chris Johnson,Computer,98,Pre-Engineering,51,Construction,Civil Engineering
+503,Mary Smith,Arts,56,ICOM,57,Reporting,BS Media and Communication
+504,Elizabeth Wilson,Computer,57,ICS,90,Logic Building/Games development,Bachelors in Computer Science
+505,Tom Johnson,Biology,94,Pre-Medical,83,Animal Welfare,Veterinary Sciences
+506,James Brown,Arts,76,ICOM,71,Reporting,BS Media and Communication
+507,Barbara Young,Arts,96,ICOM,88,Law,LLB
+508,James Smith,Computer,60,ICS,85,Artificial Intelligence,Bachelors in Artificial Engineering
+509,James Smith,Computer,72,Pre-Engineering,95,Mechanics,Mechanical Engineering
+510,Alice Robinson,Computer,87,Pre-Engineering,51,Robotics,Mechatronics Engineering
+511,William Hall,Computer,79,ICS,64,Software/System Building,Bachelors in Software Engineering
+512,Sarah Lewis,Computer,89,Pre-Engineering,61,Aeroplanes,Aeronautical Engineering
+513,Mary Young,Biology,77,Pre-Medical,96,Dentist,BDS
+514,Paul Harris,Biology,53,Pre-Medical,95,Physiotherapy,Doctor of Physiotherapy (DPT)
+515,William Harris,Computer,78,Pre-Engineering,85,Chemistry,Chemical Engineering
+516,Tom Brown,Arts,60,ICOM,71,Reporting,BS Media and Communication
+517,Michael Brown,Computer,87,ICS,69,Software/System Building,Bachelors in Software Engineering
+518,Michael White,Computer,100,Pre-Engineering,52,Chemistry,Chemical Engineering
+519,William Clark,Arts,95,ICOM,83,Business Management,Bachelor of Business Administration (BBA)
+520,Robert Hall,Computer,74,Pre-Engineering,96,Robotics,Mechatronics Engineering
+521,Elizabeth Young,Arts,56,ICOM,60,Accounts,BS Accounting
+522,James Robinson,Biology,74,Pre-Medical,57,Physician,MBBS
+523,Barbara Brown,Biology,95,Pre-Medical,51,Dentist,BDS
+524,Mary Johnson,Computer,63,Pre-Engineering,53,Aeroplanes,Aeronautical Engineering
+525,William Young,Arts,72,ICOM,51,Creative Writing,BS English (Literature)
+526,Thomas Clark,Biology,71,Pre-Medical,100,Animal Welfare,Veterinary Sciences
+527,Sarah Brown,Biology,80,Pre-Medical,55,Physician,MBBS
+528,Michael Davis,Computer,94,Pre-Engineering,58,Robotics,Mechatronics Engineering
+529,Robert Lee,Computer,51,Pre-Engineering,70,Robotics,Mechatronics Engineering
+530,Paul Brown,Computer,80,ICS,64,Logic Building/Games development,Bachelors in Computer Science
+531,Jessica Hall,Computer,74,Pre-Engineering,54,Chemistry,Chemical Engineering
+532,Paul Harris,Arts,95,ICOM,98,Law,LLB
+533,Elizabeth Brown,Computer,51,ICS,69,Logic Building/Games development,Bachelors in Computer Science
+534,Robert Wilson,Biology,67,Pre-Medical,51,Physiotherapy,Doctor of Physiotherapy (DPT)
+535,James King,Computer,89,ICS,58,Software/System Building,Bachelors in Software Engineering
+536,Alice Walker,Computer,88,ICS,57,Software/System Building,Bachelors in Software Engineering
+537,Linda Brown,Biology,97,Pre-Medical,75,Physiotherapy,Doctor of Physiotherapy (DPT)
+538,Sarah Lewis,Arts,97,ICOM,88,Creative Writing,BS English (Literature)
+539,John Lewis,Computer,79,ICS,58,Artificial Intelligence,Bachelors in Artificial Engineering
+540,James Hall,Computer,96,ICS,92,Software/System Building,Bachelors in Software Engineering
+541,Jessica Brown,Arts,86,ICOM,60,Creative Writing,BS English (Literature)
+542,William Harris,Arts,92,ICOM,92,Creative Writing,BS English (Literature)
+543,Jane Brown,Computer,78,ICS,64,Artificial Intelligence,Bachelors in Artificial Engineering
+544,Robert Allen,Computer,72,ICS,66,Artificial Intelligence,Bachelors in Artificial Engineering
+545,Emily Brown,Computer,59,Pre-Engineering,67,Aeroplanes,Aeronautical Engineering
+546,Alice Brown,Biology,74,Pre-Medical,72,Physiotherapy,Doctor of Physiotherapy (DPT)
+547,Thomas Brown,Biology,70,Pre-Medical,75,Dentist,BDS
+548,Mary Davis,Biology,99,Pre-Medical,55,Physician,MBBS
+549,Chris Clark,Computer,76,ICS,64,Software/System Building,Bachelors in Software Engineering
+550,Linda Davis,Biology,66,Pre-Medical,87,Animal Welfare,Veterinary Sciences
+551,James Clark,Computer,67,ICS,54,Artificial Intelligence,Bachelors in Artificial Engineering
+552,Alice Clark,Computer,57,ICS,57,Software/System Building,Bachelors in Software Engineering
+553,Sarah Hall,Computer,62,ICS,81,Technician/Network Engineer,Bachelors in IT
+554,Emily Walker,Computer,52,Pre-Engineering,83,Mechanics,Mechanical Engineering
+555,Alice Young,Computer,85,ICS,95,Software/System Building,Bachelors in Software Engineering
+556,Thomas Wilson,Computer,92,ICS,88,Technician/Network Engineer,Bachelors in IT
+557,Michael Lewis,Biology,60,Pre-Medical,99,Animal Welfare,Veterinary Sciences
+558,Linda Wilson,Computer,60,ICS,92,Technician/Network Engineer,Bachelors in IT
+559,William Johnson,Computer,97,ICS,59,Technician/Network Engineer,Bachelors in IT
+560,Alice Hall,Computer,69,ICS,54,Artificial Intelligence,Bachelors in Artificial Engineering
+561,Mary Clark,Arts,70,ICOM,69,Law,LLB
+562,Barbara Allen,Computer,66,Pre-Engineering,94,Construction,Civil Engineering
+563,Jessica Young,Biology,84,Pre-Medical,87,Animal Welfare,Veterinary Sciences
+564,James Lee,Computer,91,ICS,84,Logic Building/Games development,Bachelors in Computer Science
+565,William Young,Biology,90,Pre-Medical,88,Physiotherapy,Doctor of Physiotherapy (DPT)
+566,Tom Brown,Computer,69,Pre-Engineering,96,Mechanics,Mechanical Engineering
+567,Elizabeth Robinson,Arts,68,ICOM,60,Business Management,Bachelor of Business Administration (BBA)
+568,Paul King,Arts,63,ICOM,79,Accounts,BS Accounting
+569,Tom Robinson,Computer,76,Pre-Engineering,90,Robotics,Mechatronics Engineering
+570,Barbara King,Computer,74,Pre-Engineering,100,Aeroplanes,Aeronautical Engineering
+571,Michael Clark,Computer,54,Pre-Engineering,57,Mechanics,Mechanical Engineering
+572,Linda Lewis,Computer,79,Pre-Engineering,97,Aeroplanes,Aeronautical Engineering
+573,Linda Wilson,Computer,53,Pre-Engineering,59,Robotics,Mechatronics Engineering
+574,Linda Hall,Arts,53,ICOM,95,Accounts,BS Accounting
+575,Robert Robinson,Computer,99,Pre-Engineering,80,Aeroplanes,Aeronautical Engineering
+576,John Hall,Computer,55,Pre-Engineering,91,Construction,Civil Engineering
+577,Linda Lewis,Arts,75,ICOM,88,Business Management,Bachelor of Business Administration (BBA)
+578,Jane Young,Biology,71,Pre-Medical,68,Physiotherapy,Doctor of Physiotherapy (DPT)
+579,Chris Clark,Biology,51,Pre-Medical,66,Dentist,BDS
+580,James Brown,Computer,94,Pre-Engineering,76,Chemistry,Chemical Engineering
+581,Emily Walker,Arts,78,ICOM,87,Business Management,Bachelor of Business Administration (BBA)
+582,Jane Wilson,Arts,83,ICOM,74,Creative Writing,BS English (Literature)
+583,Mary Doe,Biology,71,Pre-Medical,82,Animal Welfare,Veterinary Sciences
+584,Linda Brown,Arts,84,ICOM,67,Reporting,BS Media and Communication
+585,Jane Clark,Arts,84,ICOM,60,Accounts,BS Accounting
+586,James Walker,Computer,78,ICS,59,Technician/Network Engineer,Bachelors in IT
+587,Linda Hall,Computer,78,ICS,88,Logic Building/Games development,Bachelors in Computer Science
+588,James Doe,Biology,50,Pre-Medical,55,Physiotherapy,Doctor of Physiotherapy (DPT)
+589,Thomas Clark,Computer,50,Pre-Engineering,55,Mechanics,Mechanical Engineering
+590,William Robinson,Arts,74,ICOM,62,Reporting,BS Media and Communication
+591,William Hall,Computer,97,ICS,62,Artificial Intelligence,Bachelors in Artificial Engineering
+592,Thomas Brown,Computer,76,ICS,88,Software/System Building,Bachelors in Software Engineering
+593,Tom Hall,Computer,52,ICS,59,Artificial Intelligence,Bachelors in Artificial Engineering
+594,John Smith,Biology,94,Pre-Medical,69,Dentist,BDS
+595,Linda White,Arts,53,ICOM,95,Reporting,BS Media and Communication
+596,Chris Brown,Computer,76,Pre-Engineering,56,Robotics,Mechatronics Engineering
+597,Tom Brown,Arts,67,ICOM,92,Business Management,Bachelor of Business Administration (BBA)
+598,Mary Lee,Arts,75,ICOM,83,Reporting,BS Media and Communication
+599,Emily Brown,Biology,94,Pre-Medical,58,Animal Welfare,Veterinary Sciences
+600,Robert Wilson,Arts,79,ICOM,60,Accounts,BS Accounting
+601,James White,Arts,65,ICOM,84,Creative Writing,BS English (Literature)
+602,James Doe,Biology,94,Pre-Medical,51,Physiotherapy,Doctor of Physiotherapy (DPT)
+603,James White,Computer,98,Pre-Engineering,88,Chemistry,Chemical Engineering
+604,William Doe,Computer,66,ICS,50,Logic Building/Games development,Bachelors in Computer Science
+605,Tom Brown,Biology,84,Pre-Medical,100,Animal Welfare,Veterinary Sciences
+606,James Davis,Computer,90,Pre-Engineering,57,Mechanics,Mechanical Engineering
+607,Thomas Allen,Biology,55,Pre-Medical,75,Physiotherapy,Doctor of Physiotherapy (DPT)
+608,Chris Hall,Computer,91,Pre-Engineering,78,Robotics,Mechatronics Engineering
+609,James Allen,Computer,66,Pre-Engineering,74,Construction,Civil Engineering
+610,Robert Doe,Arts,97,ICOM,79,Creative Writing,BS English (Literature)
+611,Jessica Hall,Computer,61,Pre-Engineering,57,Chemistry,Chemical Engineering
+612,Jane Walker,Biology,78,Pre-Medical,87,Physiotherapy,Doctor of Physiotherapy (DPT)
+613,Alice Davis,Biology,100,Pre-Medical,69,Animal Welfare,Veterinary Sciences
+614,Robert Hall,Computer,53,Pre-Engineering,53,Chemistry,Chemical Engineering
+615,Michael Brown,Biology,74,Pre-Medical,71,Dentist,BDS
+616,Jessica Wilson,Biology,53,Pre-Medical,56,Physiotherapy,Doctor of Physiotherapy (DPT)
+617,Paul Hall,Arts,60,ICOM,75,Creative Writing,BS English (Literature)
+618,James Smith,Arts,85,ICOM,73,Business Management,Bachelor of Business Administration (BBA)
+619,Robert Johnson,Computer,98,ICS,78,Logic Building/Games development,Bachelors in Computer Science
+620,Jessica Allen,Computer,95,ICS,80,Logic Building/Games development,Bachelors in Computer Science
+621,James Lewis,Computer,65,ICS,55,Software/System Building,Bachelors in Software Engineering
+622,Elizabeth Brown,Computer,55,Pre-Engineering,58,Mechanics,Mechanical Engineering
+623,John Clark,Computer,59,Pre-Engineering,88,Chemistry,Chemical Engineering
+624,Mary Lewis,Biology,61,Pre-Medical,71,Physician,MBBS
+625,Michael Wilson,Biology,81,Pre-Medical,75,Physiotherapy,Doctor of Physiotherapy (DPT)
+626,William Young,Computer,89,ICS,59,Artificial Intelligence,Bachelors in Artificial Engineering
+627,Barbara Wilson,Biology,65,Pre-Medical,92,Dentist,BDS
+628,Chris Harris,Computer,93,Pre-Engineering,67,Aeroplanes,Aeronautical Engineering
+629,John Robinson,Arts,76,ICOM,84,Business Management,Bachelor of Business Administration (BBA)
+630,Alice King,Biology,61,Pre-Medical,85,Physiotherapy,Doctor of Physiotherapy (DPT)
+631,Alice Wilson,Biology,75,Pre-Medical,60,Physiotherapy,Doctor of Physiotherapy (DPT)
+632,Emily Lewis,Computer,84,ICS,75,Technician/Network Engineer,Bachelors in IT
+633,Sarah White,Computer,95,ICS,81,Artificial Intelligence,Bachelors in Artificial Engineering
+634,Robert Robinson,Computer,99,ICS,83,Artificial Intelligence,Bachelors in Artificial Engineering
+635,Chris Clark,Arts,99,ICOM,72,Business Management,Bachelor of Business Administration (BBA)
+636,Jessica Johnson,Biology,96,Pre-Medical,97,Physiotherapy,Doctor of Physiotherapy (DPT)
+637,Michael Smith,Biology,98,Pre-Medical,85,Physiotherapy,Doctor of Physiotherapy (DPT)
+638,James Clark,Computer,76,ICS,83,Technician/Network Engineer,Bachelors in IT
+639,Michael Harris,Biology,80,Pre-Medical,56,Physician,MBBS
+640,Barbara Young,Computer,74,Pre-Engineering,70,Construction,Civil Engineering
+641,Robert Brown,Biology,73,Pre-Medical,93,Dentist,BDS
+642,Barbara Brown,Computer,83,ICS,86,Logic Building/Games development,Bachelors in Computer Science
+643,James Lee,Computer,98,ICS,62,Software/System Building,Bachelors in Software Engineering
+644,William Doe,Computer,52,Pre-Engineering,83,Mechanics,Mechanical Engineering
+645,Robert White,Computer,88,ICS,66,Artificial Intelligence,Bachelors in Artificial Engineering
+646,Robert Walker,Arts,79,ICOM,72,Law,LLB
+647,Robert Brown,Biology,100,Pre-Medical,87,Animal Welfare,Veterinary Sciences
+648,William Lee,Computer,93,ICS,53,Logic Building/Games development,Bachelors in Computer Science
+649,Robert Brown,Computer,58,ICS,51,Artificial Intelligence,Bachelors in Artificial Engineering
+650,Thomas Walker,Arts,56,ICOM,78,Law,LLB
+651,Alice King,Arts,92,ICOM,100,Law,LLB
+652,Emily Lee,Computer,83,Pre-Engineering,97,Chemistry,Chemical Engineering
+653,Robert Lewis,Biology,53,Pre-Medical,80,Dentist,BDS
+654,Michael White,Computer,82,ICS,56,Software/System Building,Bachelors in Software Engineering
+655,Linda Brown,Computer,57,ICS,73,Artificial Intelligence,Bachelors in Artificial Engineering
+656,Sarah Wilson,Computer,96,Pre-Engineering,78,Construction,Civil Engineering
+657,Linda Allen,Computer,91,ICS,99,Software/System Building,Bachelors in Software Engineering
+658,Jessica Wilson,Biology,95,Pre-Medical,61,Physician,MBBS
+659,Sarah Lee,Computer,75,ICS,89,Software/System Building,Bachelors in Software Engineering
+660,Thomas Clark,Arts,87,ICOM,63,Accounts,BS Accounting
+661,Elizabeth Lewis,Computer,72,Pre-Engineering,67,Mechanics,Mechanical Engineering
+662,Mary Clark,Computer,53,Pre-Engineering,80,Construction,Civil Engineering
+663,Robert Clark,Biology,71,Pre-Medical,90,Physiotherapy,Doctor of Physiotherapy (DPT)
+664,Chris Robinson,Arts,59,ICOM,78,Creative Writing,BS English (Literature)
+665,Chris Walker,Arts,100,ICOM,96,Accounts,BS Accounting
+666,Paul Clark,Biology,57,Pre-Medical,80,Dentist,BDS
+667,William Brown,Arts,52,ICOM,72,Law,LLB
+668,Elizabeth Allen,Arts,65,ICOM,63,Business Management,Bachelor of Business Administration (BBA)
+669,Thomas Clark,Computer,78,Pre-Engineering,85,Aeroplanes,Aeronautical Engineering
+670,James Johnson,Arts,65,ICOM,89,Law,LLB
+671,Linda Johnson,Biology,85,Pre-Medical,68,Dentist,BDS
+672,William Robinson,Computer,56,Pre-Engineering,86,Chemistry,Chemical Engineering
+673,William Wilson,Computer,87,Pre-Engineering,93,Robotics,Mechatronics Engineering
+674,Tom Hall,Computer,78,Pre-Engineering,85,Robotics,Mechatronics Engineering
+675,Mary King,Computer,54,Pre-Engineering,59,Chemistry,Chemical Engineering
+676,Linda King,Biology,57,Pre-Medical,89,Dentist,BDS
+677,Tom Young,Biology,100,Pre-Medical,58,Dentist,BDS
+678,Jessica Davis,Computer,55,ICS,92,Software/System Building,Bachelors in Software Engineering
+679,Elizabeth Allen,Computer,86,ICS,88,Logic Building/Games development,Bachelors in Computer Science
+680,John Clark,Computer,99,Pre-Engineering,57,Mechanics,Mechanical Engineering
+681,John King,Computer,99,ICS,64,Software/System Building,Bachelors in Software Engineering
+682,John Lewis,Biology,65,Pre-Medical,51,Physician,MBBS
+683,Robert Robinson,Arts,68,ICOM,55,Law,LLB
+684,Emily Johnson,Biology,83,Pre-Medical,62,Physiotherapy,Doctor of Physiotherapy (DPT)
+685,Robert Harris,Arts,57,ICOM,67,Business Management,Bachelor of Business Administration (BBA)
+686,Sarah Young,Computer,64,Pre-Engineering,94,Construction,Civil Engineering
+687,Michael Johnson,Computer,88,Pre-Engineering,54,Aeroplanes,Aeronautical Engineering
+688,William Young,Computer,54,ICS,83,Logic Building/Games development,Bachelors in Computer Science
+689,Elizabeth Wilson,Biology,99,Pre-Medical,83,Physiotherapy,Doctor of Physiotherapy (DPT)
+690,Linda Allen,Computer,62,ICS,100,Technician/Network Engineer,Bachelors in IT
+691,Chris Lee,Arts,80,ICOM,74,Accounts,BS Accounting
+692,Tom Hall,Computer,78,Pre-Engineering,78,Chemistry,Chemical Engineering
+693,Linda Clark,Computer,89,Pre-Engineering,81,Mechanics,Mechanical Engineering
+694,Jane Johnson,Computer,53,ICS,89,Software/System Building,Bachelors in Software Engineering
+695,Jessica Doe,Biology,82,Pre-Medical,59,Physician,MBBS
+696,John Young,Computer,87,ICS,56,Software/System Building,Bachelors in Software Engineering
+697,Jane Robinson,Arts,83,ICOM,76,Accounts,BS Accounting
+698,Chris Johnson,Biology,57,Pre-Medical,99,Physician,MBBS
+699,Paul Lee,Biology,95,Pre-Medical,96,Physician,MBBS
+700,Jessica Lee,Biology,54,Pre-Medical,59,Physician,MBBS
+701,John Smith,Computer,100,Pre-Engineering,59,Mechanics,Mechanical Engineering
+702,Paul White,Arts,62,ICOM,71,Reporting,BS Media and Communication
+703,Tom Brown,Computer,63,ICS,86,Artificial Intelligence,Bachelors in Artificial Engineering
+704,Jane Wilson,Arts,80,ICOM,79,Business Management,Bachelor of Business Administration (BBA)
+705,Sarah Walker,Computer,60,Pre-Engineering,60,Construction,Civil Engineering
+706,Elizabeth Brown,Computer,70,ICS,94,Software/System Building,Bachelors in Software Engineering
+707,Thomas Harris,Biology,79,Pre-Medical,57,Physiotherapy,Doctor of Physiotherapy (DPT)
+708,William Lee,Computer,83,Pre-Engineering,90,Aeroplanes,Aeronautical Engineering
+709,Elizabeth King,Computer,82,Pre-Engineering,56,Mechanics,Mechanical Engineering
+710,James Young,Computer,54,ICS,53,Software/System Building,Bachelors in Software Engineering
+711,Barbara King,Arts,93,ICOM,68,Reporting,BS Media and Communication
+712,Paul Brown,Arts,71,ICOM,86,Reporting,BS Media and Communication
+713,William Robinson,Biology,67,Pre-Medical,88,Dentist,BDS
+714,Michael Brown,Computer,51,ICS,70,Software/System Building,Bachelors in Software Engineering
+715,Chris Brown,Arts,52,ICOM,99,Law,LLB
+716,Robert Brown,Computer,54,Pre-Engineering,60,Construction,Civil Engineering
+717,Chris Robinson,Computer,73,ICS,86,Software/System Building,Bachelors in Software Engineering
+718,Paul Young,Biology,56,Pre-Medical,86,Animal Welfare,Veterinary Sciences
+719,John Lewis,Arts,92,ICOM,51,Business Management,Bachelor of Business Administration (BBA)
+720,Emily Doe,Computer,53,ICS,76,Artificial Intelligence,Bachelors in Artificial Engineering
+721,Jessica Walker,Computer,56,ICS,81,Software/System Building,Bachelors in Software Engineering
+722,William Harris,Biology,86,Pre-Medical,62,Physician,MBBS
+723,Paul Davis,Biology,70,Pre-Medical,75,Physician,MBBS
+724,Michael Johnson,Biology,66,Pre-Medical,55,Dentist,BDS
+725,Barbara Robinson,Computer,86,ICS,98,Software/System Building,Bachelors in Software Engineering
+726,Chris Brown,Biology,90,Pre-Medical,98,Physiotherapy,Doctor of Physiotherapy (DPT)
+727,Mary Allen,Biology,81,Pre-Medical,88,Physiotherapy,Doctor of Physiotherapy (DPT)
+728,John Brown,Arts,66,ICOM,97,Accounts,BS Accounting
+729,Barbara Doe,Computer,58,ICS,57,Artificial Intelligence,Bachelors in Artificial Engineering
+730,Jane King,Computer,69,Pre-Engineering,73,Aeroplanes,Aeronautical Engineering
+731,Alice King,Biology,60,Pre-Medical,54,Animal Welfare,Veterinary Sciences
+732,Linda Harris,Computer,70,ICS,66,Logic Building/Games development,Bachelors in Computer Science
+733,Alice Smith,Computer,69,ICS,95,Technician/Network Engineer,Bachelors in IT
+734,Robert Brown,Computer,79,ICS,82,Logic Building/Games development,Bachelors in Computer Science
+735,Thomas Brown,Computer,85,Pre-Engineering,62,Aeroplanes,Aeronautical Engineering
+736,Thomas Harris,Arts,56,ICOM,62,Accounts,BS Accounting
+737,James Brown,Arts,68,ICOM,52,Creative Writing,BS English (Literature)
+738,Tom Clark,Computer,72,Pre-Engineering,71,Aeroplanes,Aeronautical Engineering
+739,Tom Davis,Computer,90,ICS,51,Logic Building/Games development,Bachelors in Computer Science
+740,Paul Johnson,Arts,72,ICOM,95,Accounts,BS Accounting
+741,Michael Wilson,Arts,55,ICOM,82,Creative Writing,BS English (Literature)
+742,John Brown,Arts,71,ICOM,65,Creative Writing,BS English (Literature)
+743,Tom Brown,Biology,65,Pre-Medical,58,Animal Welfare,Veterinary Sciences
+744,Paul Doe,Computer,75,Pre-Engineering,67,Mechanics,Mechanical Engineering
+745,James Lewis,Arts,60,ICOM,54,Accounts,BS Accounting
+746,Sarah Young,Biology,75,Pre-Medical,77,Physician,MBBS
+747,Tom White,Arts,97,ICOM,69,Creative Writing,BS English (Literature)
+748,Chris Allen,Arts,90,ICOM,69,Business Management,Bachelor of Business Administration (BBA)
+749,Jessica Wilson,Biology,73,Pre-Medical,81,Animal Welfare,Veterinary Sciences
+750,Jane Davis,Arts,64,ICOM,73,Business Management,Bachelor of Business Administration (BBA)
+751,Robert Clark,Computer,54,Pre-Engineering,66,Aeroplanes,Aeronautical Engineering
+752,Robert Harris,Computer,77,ICS,95,Software/System Building,Bachelors in Software Engineering
+753,Sarah Young,Biology,83,Pre-Medical,69,Physician,MBBS
+754,John Hall,Computer,67,ICS,63,Artificial Intelligence,Bachelors in Artificial Engineering
+755,Alice Johnson,Biology,99,Pre-Medical,99,Physiotherapy,Doctor of Physiotherapy (DPT)
+756,James Smith,Arts,65,ICOM,100,Creative Writing,BS English (Literature)
+757,Robert Walker,Arts,85,ICOM,81,Law,LLB
+758,Jessica Young,Arts,81,ICOM,71,Law,LLB
+759,Chris Brown,Biology,92,Pre-Medical,56,Dentist,BDS
+760,James Brown,Biology,70,Pre-Medical,51,Dentist,BDS
+761,Elizabeth Wilson,Arts,67,ICOM,92,Reporting,BS Media and Communication
+762,Chris Lee,Arts,59,ICOM,74,Reporting,BS Media and Communication
+763,Robert Brown,Arts,98,ICOM,89,Business Management,Bachelor of Business Administration (BBA)
+764,Jessica Doe,Computer,77,Pre-Engineering,98,Mechanics,Mechanical Engineering
+765,Alice King,Biology,59,Pre-Medical,63,Animal Welfare,Veterinary Sciences
+766,Elizabeth Doe,Computer,68,Pre-Engineering,70,Aeroplanes,Aeronautical Engineering
+767,Michael Lewis,Biology,63,Pre-Medical,84,Dentist,BDS
+768,Barbara Harris,Computer,57,Pre-Engineering,51,Mechanics,Mechanical Engineering
+769,Thomas Johnson,Computer,86,Pre-Engineering,58,Robotics,Mechatronics Engineering
+770,Elizabeth Brown,Computer,95,ICS,50,Artificial Intelligence,Bachelors in Artificial Engineering
+771,Chris Walker,Computer,74,ICS,100,Logic Building/Games development,Bachelors in Computer Science
+772,Linda Smith,Arts,58,ICOM,73,Reporting,BS Media and Communication
+773,Paul Harris,Computer,52,Pre-Engineering,92,Mechanics,Mechanical Engineering
+774,Elizabeth Allen,Arts,72,ICOM,86,Business Management,Bachelor of Business Administration (BBA)
+775,Jessica Hall,Computer,56,ICS,64,Software/System Building,Bachelors in Software Engineering
+776,Emily Brown,Biology,76,Pre-Medical,55,Dentist,BDS
+777,Robert Brown,Computer,57,ICS,75,Logic Building/Games development,Bachelors in Computer Science
+778,Michael Young,Computer,88,Pre-Engineering,85,Robotics,Mechatronics Engineering
+779,Emily Hall,Biology,85,Pre-Medical,93,Animal Welfare,Veterinary Sciences
+780,Robert King,Arts,58,ICOM,63,Creative Writing,BS English (Literature)
+781,Michael Lewis,Arts,75,ICOM,65,Creative Writing,BS English (Literature)
+782,Chris Lee,Computer,55,ICS,57,Artificial Intelligence,Bachelors in Artificial Engineering
+783,Jessica Brown,Computer,82,ICS,65,Logic Building/Games development,Bachelors in Computer Science
+784,Jessica Young,Computer,67,ICS,70,Artificial Intelligence,Bachelors in Artificial Engineering
+785,Jessica Wilson,Biology,56,Pre-Medical,60,Dentist,BDS
+786,Emily Harris,Biology,90,Pre-Medical,84,Physician,MBBS
+787,Jane White,Computer,69,Pre-Engineering,82,Construction,Civil Engineering
+788,Linda King,Biology,98,Pre-Medical,70,Physiotherapy,Doctor of Physiotherapy (DPT)
+789,Robert Harris,Computer,50,ICS,53,Logic Building/Games development,Bachelors in Computer Science
+790,Michael Robinson,Biology,56,Pre-Medical,75,Physiotherapy,Doctor of Physiotherapy (DPT)
+791,John Smith,Computer,96,Pre-Engineering,54,Construction,Civil Engineering
+792,Michael White,Computer,79,ICS,76,Software/System Building,Bachelors in Software Engineering
+793,John Lewis,Computer,51,Pre-Engineering,63,Chemistry,Chemical Engineering
+794,John Hall,Computer,57,ICS,94,Technician/Network Engineer,Bachelors in IT
+795,Linda Hall,Computer,90,Pre-Engineering,61,Construction,Civil Engineering
+796,John Allen,Computer,78,Pre-Engineering,82,Construction,Civil Engineering
+797,Sarah King,Biology,94,Pre-Medical,99,Animal Welfare,Veterinary Sciences
+798,Mary Johnson,Arts,98,ICOM,94,Law,LLB
+799,Alice White,Computer,98,ICS,53,Technician/Network Engineer,Bachelors in IT
+800,Alice Young,Computer,50,Pre-Engineering,60,Mechanics,Mechanical Engineering
+801,William Smith,Biology,84,Pre-Medical,62,Animal Welfare,Veterinary Sciences
+802,Linda Walker,Computer,64,Pre-Engineering,59,Robotics,Mechatronics Engineering
+803,Jane Lee,Computer,71,ICS,82,Software/System Building,Bachelors in Software Engineering
+804,Michael White,Biology,97,Pre-Medical,51,Animal Welfare,Veterinary Sciences
+805,Alice Hall,Arts,82,ICOM,56,Creative Writing,BS English (Literature)
+806,Emily Clark,Biology,97,Pre-Medical,99,Animal Welfare,Veterinary Sciences
+807,Linda White,Computer,71,ICS,54,Logic Building/Games development,Bachelors in Computer Science
+808,Alice King,Biology,73,Pre-Medical,55,Dentist,BDS
+809,James Robinson,Biology,98,Pre-Medical,72,Physiotherapy,Doctor of Physiotherapy (DPT)
+810,Mary Wilson,Arts,60,ICOM,78,Law,LLB
+811,Linda Lee,Arts,62,ICOM,60,Creative Writing,BS English (Literature)
+812,James Davis,Biology,59,Pre-Medical,99,Physician,MBBS
+813,Jane Clark,Biology,67,Pre-Medical,53,Physician,MBBS
+814,Thomas Davis,Biology,62,Pre-Medical,51,Physiotherapy,Doctor of Physiotherapy (DPT)
+815,Tom King,Arts,94,ICOM,95,Business Management,Bachelor of Business Administration (BBA)
+816,Jane Harris,Biology,86,Pre-Medical,98,Physician,MBBS
+817,Thomas Johnson,Computer,52,Pre-Engineering,65,Mechanics,Mechanical Engineering
+818,Robert Johnson,Computer,68,ICS,52,Technician/Network Engineer,Bachelors in IT
+819,Barbara Robinson,Computer,87,ICS,87,Logic Building/Games development,Bachelors in Computer Science
+820,Linda King,Computer,93,ICS,86,Artificial Intelligence,Bachelors in Artificial Engineering
+821,James Smith,Biology,61,Pre-Medical,83,Physician,MBBS
+822,Jane Davis,Computer,71,ICS,84,Artificial Intelligence,Bachelors in Artificial Engineering
+823,Elizabeth Young,Biology,62,Pre-Medical,81,Dentist,BDS
+824,Linda Walker,Computer,51,Pre-Engineering,80,Chemistry,Chemical Engineering
+825,Sarah Doe,Arts,71,ICOM,60,Accounts,BS Accounting
+826,Linda Walker,Computer,62,Pre-Engineering,82,Robotics,Mechatronics Engineering
+827,Sarah Hall,Computer,63,Pre-Engineering,58,Chemistry,Chemical Engineering
+828,Jane Davis,Arts,94,ICOM,68,Accounts,BS Accounting
+829,Mary Brown,Biology,52,Pre-Medical,80,Dentist,BDS
+830,Sarah Brown,Biology,72,Pre-Medical,87,Physiotherapy,Doctor of Physiotherapy (DPT)
+831,John Brown,Arts,82,ICOM,82,Creative Writing,BS English (Literature)
+832,Robert Brown,Biology,78,Pre-Medical,54,Animal Welfare,Veterinary Sciences
+833,Jessica Davis,Computer,77,Pre-Engineering,61,Construction,Civil Engineering
+834,John Doe,Computer,73,Pre-Engineering,54,Robotics,Mechatronics Engineering
+835,Tom White,Computer,79,ICS,60,Artificial Intelligence,Bachelors in Artificial Engineering
+836,Tom Hall,Computer,85,Pre-Engineering,74,Construction,Civil Engineering
+837,Sarah Lee,Computer,99,Pre-Engineering,96,Aeroplanes,Aeronautical Engineering
+838,Jane Brown,Biology,50,Pre-Medical,95,Dentist,BDS
+839,Mary Lee,Arts,80,ICOM,65,Accounts,BS Accounting
+840,William Brown,Biology,51,Pre-Medical,67,Physician,MBBS
+841,William Johnson,Computer,69,Pre-Engineering,68,Mechanics,Mechanical Engineering
+842,Mary Robinson,Computer,85,ICS,71,Artificial Intelligence,Bachelors in Artificial Engineering
+843,Thomas Johnson,Biology,92,Pre-Medical,64,Physician,MBBS
+844,Robert Lee,Biology,56,Pre-Medical,61,Physician,MBBS
+845,Emily Brown,Arts,67,ICOM,85,Creative Writing,BS English (Literature)
+846,James King,Arts,93,ICOM,56,Law,LLB
+847,Emily Wilson,Computer,82,Pre-Engineering,66,Chemistry,Chemical Engineering
+848,Jane Brown,Arts,62,ICOM,70,Creative Writing,BS English (Literature)
+849,Jane Brown,Computer,75,ICS,66,Logic Building/Games development,Bachelors in Computer Science
+850,Robert Lee,Computer,83,Pre-Engineering,88,Mechanics,Mechanical Engineering
+851,Michael Robinson,Biology,60,Pre-Medical,57,Dentist,BDS
+852,Alice Lewis,Arts,75,ICOM,86,Law,LLB
+853,Jane Smith,Computer,88,Pre-Engineering,98,Aeroplanes,Aeronautical Engineering
+854,Sarah Lee,Biology,73,Pre-Medical,74,Physiotherapy,Doctor of Physiotherapy (DPT)
+855,John Walker,Arts,63,ICOM,85,Reporting,BS Media and Communication
+856,Tom Lewis,Computer,69,ICS,73,Logic Building/Games development,Bachelors in Computer Science
+857,Jessica Walker,Computer,68,Pre-Engineering,85,Construction,Civil Engineering
+858,Mary Young,Computer,71,Pre-Engineering,86,Robotics,Mechatronics Engineering
+859,James King,Biology,88,Pre-Medical,95,Physiotherapy,Doctor of Physiotherapy (DPT)
+860,Tom Robinson,Biology,95,Pre-Medical,81,Dentist,BDS
+861,James Lee,Arts,91,ICOM,93,Accounts,BS Accounting
+862,Barbara Johnson,Arts,90,ICOM,61,Reporting,BS Media and Communication
+863,Linda King,Computer,65,ICS,81,Logic Building/Games development,Bachelors in Computer Science
+864,Paul Brown,Computer,67,Pre-Engineering,61,Construction,Civil Engineering
+865,James Wilson,Computer,81,ICS,62,Software/System Building,Bachelors in Software Engineering
+866,Jessica Doe,Arts,69,ICOM,100,Law,LLB
+867,Mary Lee,Computer,74,ICS,64,Software/System Building,Bachelors in Software Engineering
+868,Paul Lee,Arts,86,ICOM,55,Accounts,BS Accounting
+869,Mary Brown,Arts,53,ICOM,85,Business Management,Bachelor of Business Administration (BBA)
+870,John White,Computer,59,ICS,95,Software/System Building,Bachelors in Software Engineering
+871,Sarah Hall,Biology,91,Pre-Medical,64,Dentist,BDS
+872,Barbara Hall,Arts,73,ICOM,63,Reporting,BS Media and Communication
+873,John Clark,Arts,82,ICOM,92,Reporting,BS Media and Communication
+874,Michael Clark,Computer,92,Pre-Engineering,60,Construction,Civil Engineering
+875,Thomas Davis,Computer,97,ICS,71,Software/System Building,Bachelors in Software Engineering
+876,Elizabeth Young,Biology,62,Pre-Medical,54,Physiotherapy,Doctor of Physiotherapy (DPT)
+877,William Wilson,Computer,91,Pre-Engineering,53,Mechanics,Mechanical Engineering
+878,John Smith,Computer,52,Pre-Engineering,73,Robotics,Mechatronics Engineering
+879,Jessica Johnson,Biology,55,Pre-Medical,96,Physician,MBBS
+880,Alice Wilson,Biology,95,Pre-Medical,74,Physician,MBBS
+881,Paul Walker,Computer,62,Pre-Engineering,54,Mechanics,Mechanical Engineering
+882,Mary Wilson,Arts,79,ICOM,69,Law,LLB
+883,Elizabeth Robinson,Biology,69,Pre-Medical,62,Animal Welfare,Veterinary Sciences
+884,Jane Johnson,Computer,62,Pre-Engineering,67,Robotics,Mechatronics Engineering
+885,Michael Wilson,Computer,63,ICS,87,Artificial Intelligence,Bachelors in Artificial Engineering
+886,Michael Walker,Computer,77,ICS,74,Technician/Network Engineer,Bachelors in IT
+887,Chris Lee,Biology,74,Pre-Medical,78,Physician,MBBS
+888,John Brown,Biology,87,Pre-Medical,57,Physician,MBBS
+889,Emily King,Computer,92,ICS,72,Logic Building/Games development,Bachelors in Computer Science
+890,William Smith,Biology,94,Pre-Medical,88,Physiotherapy,Doctor of Physiotherapy (DPT)
+891,John Harris,Computer,53,ICS,86,Logic Building/Games development,Bachelors in Computer Science
+892,Barbara Brown,Arts,50,ICOM,61,Reporting,BS Media and Communication
+893,Emily Lewis,Computer,62,ICS,54,Software/System Building,Bachelors in Software Engineering
+894,Sarah Lewis,Computer,82,ICS,77,Software/System Building,Bachelors in Software Engineering
+895,Thomas Robinson,Computer,57,ICS,70,Software/System Building,Bachelors in Software Engineering
+896,Jane Doe,Computer,97,ICS,58,Logic Building/Games development,Bachelors in Computer Science
+897,James Smith,Computer,72,ICS,74,Artificial Intelligence,Bachelors in Artificial Engineering
+898,Sarah Lee,Biology,93,Pre-Medical,61,Physician,MBBS
+899,Michael Robinson,Computer,89,ICS,74,Logic Building/Games development,Bachelors in Computer Science
+900,Elizabeth Doe,Computer,90,Pre-Engineering,78,Robotics,Mechatronics Engineering
+901,Paul Robinson,Arts,66,ICOM,84,Law,LLB
+902,Linda Brown,Computer,90,ICS,60,Technician/Network Engineer,Bachelors in IT
+903,Alice Davis,Arts,86,ICOM,64,Reporting,BS Media and Communication
+904,Jane King,Biology,56,Pre-Medical,84,Dentist,BDS
+905,Alice Lewis,Biology,70,Pre-Medical,59,Physician,MBBS
+906,Barbara Smith,Arts,52,ICOM,73,Law,LLB
+907,Barbara Lewis,Computer,79,ICS,80,Logic Building/Games development,Bachelors in Computer Science
+908,Tom Robinson,Arts,54,ICOM,60,Business Management,Bachelor of Business Administration (BBA)
+909,Tom Lee,Computer,52,ICS,94,Artificial Intelligence,Bachelors in Artificial Engineering
+910,Linda Brown,Biology,60,Pre-Medical,86,Physician,MBBS
+911,John Hall,Biology,55,Pre-Medical,52,Animal Welfare,Veterinary Sciences
+912,Jessica Johnson,Computer,75,Pre-Engineering,71,Aeroplanes,Aeronautical Engineering
+913,Linda King,Biology,72,Pre-Medical,100,Physician,MBBS
+914,Mary Johnson,Arts,92,ICOM,98,Reporting,BS Media and Communication
+915,Thomas Lee,Arts,72,ICOM,77,Law,LLB
+916,Jane Wilson,Arts,99,ICOM,84,Reporting,BS Media and Communication
+917,Paul Lee,Computer,82,Pre-Engineering,62,Mechanics,Mechanical Engineering
+918,Chris Young,Arts,72,ICOM,62,Business Management,Bachelor of Business Administration (BBA)
+919,Mary Wilson,Computer,67,Pre-Engineering,98,Aeroplanes,Aeronautical Engineering
+920,Linda Clark,Computer,76,Pre-Engineering,95,Construction,Civil Engineering
+921,Michael Harris,Arts,80,ICOM,87,Business Management,Bachelor of Business Administration (BBA)
+922,Sarah Johnson,Computer,92,Pre-Engineering,80,Chemistry,Chemical Engineering
+923,Sarah Smith,Biology,65,Pre-Medical,69,Physician,MBBS
+924,Robert Young,Arts,75,ICOM,62,Creative Writing,BS English (Literature)
+925,Elizabeth Allen,Computer,77,ICS,68,Software/System Building,Bachelors in Software Engineering
+926,Michael Lee,Computer,71,Pre-Engineering,81,Robotics,Mechatronics Engineering
+927,John Robinson,Biology,88,Pre-Medical,64,Physiotherapy,Doctor of Physiotherapy (DPT)
+928,Elizabeth White,Biology,75,Pre-Medical,79,Physician,MBBS
+929,Jessica Davis,Computer,60,ICS,85,Artificial Intelligence,Bachelors in Artificial Engineering
+930,Elizabeth Lewis,Computer,100,Pre-Engineering,86,Robotics,Mechatronics Engineering
+931,Jessica Wilson,Computer,75,ICS,69,Artificial Intelligence,Bachelors in Artificial Engineering
+932,Chris Davis,Biology,98,Pre-Medical,65,Animal Welfare,Veterinary Sciences
+933,John Hall,Arts,52,ICOM,67,Creative Writing,BS English (Literature)
+934,Paul Hall,Biology,85,Pre-Medical,77,Dentist,BDS
+935,Jane Johnson,Computer,62,Pre-Engineering,75,Mechanics,Mechanical Engineering
+936,Tom Lee,Computer,100,ICS,97,Technician/Network Engineer,Bachelors in IT
+937,Linda Lee,Arts,69,ICOM,100,Law,LLB
+938,Tom Young,Biology,80,Pre-Medical,73,Dentist,BDS
+939,William Allen,Biology,83,Pre-Medical,66,Dentist,BDS
+940,John King,Computer,63,ICS,54,Artificial Intelligence,Bachelors in Artificial Engineering
+941,Alice Lee,Biology,60,Pre-Medical,97,Dentist,BDS
+942,Jessica Allen,Arts,81,ICOM,97,Creative Writing,BS English (Literature)
+943,Michael Robinson,Computer,56,ICS,59,Technician/Network Engineer,Bachelors in IT
+944,Thomas Davis,Computer,61,Pre-Engineering,100,Chemistry,Chemical Engineering
+945,Jessica Harris,Arts,89,ICOM,71,Accounts,BS Accounting
+946,William Harris,Biology,57,Pre-Medical,83,Physician,MBBS
+947,Barbara Lewis,Arts,83,ICOM,87,Accounts,BS Accounting
+948,Tom White,Computer,86,ICS,60,Software/System Building,Bachelors in Software Engineering
+949,Jane Doe,Arts,69,ICOM,55,Reporting,BS Media and Communication
+950,James Lewis,Computer,60,ICS,66,Artificial Intelligence,Bachelors in Artificial Engineering
+951,Jessica Brown,Biology,96,Pre-Medical,99,Physiotherapy,Doctor of Physiotherapy (DPT)
+952,Emily Young,Arts,88,ICOM,97,Business Management,Bachelor of Business Administration (BBA)
+953,Alice Smith,Arts,98,ICOM,73,Law,LLB
+954,William Lewis,Arts,75,ICOM,71,Law,LLB
+955,Sarah Clark,Computer,53,ICS,73,Software/System Building,Bachelors in Software Engineering
+956,James Lewis,Arts,85,ICOM,68,Business Management,Bachelor of Business Administration (BBA)
+957,James Davis,Computer,67,Pre-Engineering,55,Construction,Civil Engineering
+958,Thomas Walker,Biology,68,Pre-Medical,86,Physiotherapy,Doctor of Physiotherapy (DPT)
+959,Sarah Allen,Computer,63,ICS,88,Artificial Intelligence,Bachelors in Artificial Engineering
+960,William King,Computer,100,Pre-Engineering,58,Aeroplanes,Aeronautical Engineering
+961,Thomas Robinson,Computer,78,Pre-Engineering,68,Chemistry,Chemical Engineering
+962,Tom Smith,Biology,100,Pre-Medical,77,Physician,MBBS
+963,Alice Allen,Computer,87,Pre-Engineering,76,Robotics,Mechatronics Engineering
+964,Jane Johnson,Computer,55,Pre-Engineering,72,Mechanics,Mechanical Engineering
+965,William Brown,Computer,97,ICS,69,Technician/Network Engineer,Bachelors in IT
+966,Paul Allen,Computer,91,Pre-Engineering,86,Chemistry,Chemical Engineering
+967,Michael Doe,Computer,68,Pre-Engineering,93,Robotics,Mechatronics Engineering
+968,Linda Wilson,Computer,90,Pre-Engineering,100,Aeroplanes,Aeronautical Engineering
+969,John Lee,Computer,81,Pre-Engineering,76,Robotics,Mechatronics Engineering
+970,Jane Walker,Biology,59,Pre-Medical,64,Animal Welfare,Veterinary Sciences
+971,Mary Clark,Computer,81,Pre-Engineering,90,Chemistry,Chemical Engineering
+972,Sarah Clark,Computer,62,Pre-Engineering,72,Robotics,Mechatronics Engineering
+973,Barbara Brown,Computer,57,ICS,86,Technician/Network Engineer,Bachelors in IT
+974,Tom Walker,Computer,97,Pre-Engineering,90,Mechanics,Mechanical Engineering
+975,Sarah Johnson,Arts,72,ICOM,62,Creative Writing,BS English (Literature)
+976,Michael Robinson,Computer,96,ICS,61,Artificial Intelligence,Bachelors in Artificial Engineering
+977,Jessica Robinson,Arts,87,ICOM,69,Reporting,BS Media and Communication
+978,Tom Clark,Computer,93,Pre-Engineering,52,Mechanics,Mechanical Engineering
+979,Michael Hall,Computer,76,ICS,51,Software/System Building,Bachelors in Software Engineering
+980,John Walker,Computer,67,Pre-Engineering,61,Mechanics,Mechanical Engineering
+981,Elizabeth Allen,Computer,76,Pre-Engineering,75,Construction,Civil Engineering
+982,John Hall,Computer,64,ICS,69,Software/System Building,Bachelors in Software Engineering
+983,Michael Hall,Biology,79,Pre-Medical,85,Physiotherapy,Doctor of Physiotherapy (DPT)
+984,Michael Hall,Computer,78,ICS,64,Technician/Network Engineer,Bachelors in IT
+985,Paul Wilson,Computer,52,ICS,77,Software/System Building,Bachelors in Software Engineering
+986,Mary Hall,Computer,97,Pre-Engineering,75,Aeroplanes,Aeronautical Engineering
+987,Robert King,Computer,67,ICS,78,Logic Building/Games development,Bachelors in Computer Science
+988,Emily Doe,Computer,64,Pre-Engineering,92,Aeroplanes,Aeronautical Engineering
+989,Chris Smith,Arts,61,ICOM,76,Reporting,BS Media and Communication
+990,Robert Lee,Biology,52,Pre-Medical,85,Animal Welfare,Veterinary Sciences
+991,Sarah Brown,Arts,62,ICOM,69,Reporting,BS Media and Communication
+992,John Walker,Arts,74,ICOM,98,Reporting,BS Media and Communication
+993,Tom Robinson,Biology,55,Pre-Medical,71,Physiotherapy,Doctor of Physiotherapy (DPT)
+994,Tom Hall,Biology,92,Pre-Medical,82,Physician,MBBS
+995,Thomas Davis,Computer,89,Pre-Engineering,88,Chemistry,Chemical Engineering
+996,Jane Hall,Computer,83,ICS,94,Logic Building/Games development,Bachelors in Computer Science
+997,Elizabeth Johnson,Computer,79,Pre-Engineering,74,Aeroplanes,Aeronautical Engineering
+998,Thomas Lee,Computer,61,ICS,60,Software/System Building,Bachelors in Software Engineering
+999,Thomas Davis,Computer,97,ICS,95,Logic Building/Games development,Bachelors in Computer Science
+1000,Thomas Brown,Computer,90,Pre-Engineering,63,Aeroplanes,Aeronautical Engineering
